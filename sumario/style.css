@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    padding: 25%;
+    font-size: 62.5%;
+
+}
+
+.caixa1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 17rem;
+    
+    width: 27rem;
+    height: 391px;
+
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    border-radius: 3rem;
+    align-content: flex-end;
+}
+
+.caixa1 h1 {
+    color: white;
+    font-size: 18px;
+
+}
+
+.container p {
+    text-align: center;
+    font-size: ;
+}
+
+.redondo {
+    width: 130px;
+    height: 130px;
+    background-color: white;
+    border-radius: 8rem;
+
+}
